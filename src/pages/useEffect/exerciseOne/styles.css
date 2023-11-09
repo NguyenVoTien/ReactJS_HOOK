@@ -1,0 +1,34 @@
+/* css exerciseOne */
+button:hover {
+    background-color: aquamarine;
+    color: black;
+}
+button:active {
+    background-color: blueviolet;
+    color: black;
+}
+
+ul {
+    display: block;
+    margin-left: -10px;
+}
+
+ul li {
+    display: block;
+    position: relative;
+    color: rgb(68, 255, 0);
+    font-weight: 900;
+}
+
+img {
+    align-items: center;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+.inputform {
+    padding: 15px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
